@@ -4,9 +4,9 @@
 ## Project Overview
 This project involves the use of Tableau to analyze New York City Bike data. The data visualization tool Tableau was used to explore and identify trends of the bike-sharing business.
 
-[link to dashboard](https://public.tableau.com/profile/robert1912#!/vizhome/Bike_Sharing_16198285438110/NYCBike?publish=yes)
+[link to dashboard](https://public.tableau.com/app/profile/elham.amini5644/viz/BikeSharingVisualization_16320756319340/BikeSharing?publish=yes)
 
-[link to dashboard](https://public.tableau.com/profile/robert1912#!/vizhome/NYCBike_16198230280820/TopStartingLocations?publish=yes)
+[link to dashboard](https://public.tableau.com/app/profile/elham.amini5644)
 
 ### Resources
 - Data Source:

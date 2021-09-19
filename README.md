@@ -44,5 +44,5 @@ A breakdown based on gender.The visualization shows that the majority of users i
 
 
 ## Summary
-Based on the data, high usage of Citi bike sharing occurs in New York City by male users in the morning (8am) and evenings (5/6pm). Location plays a role in the number of rides from Citi Bike services since, New Yorkers needing additional fast transportation. This analysis could be benefitted by additional analysis comparing bike data for other months to observe the different variables included in this dataset, such as gender, time spent, etc. 
+Based on the data, high usage of Citi bike sharing occurs in New York City by male users in the morning (8am) and evenings (5/6pm). Location plays a role in the number of rides from Citi Bike services since, New Yorkers needing additional fast transportation. This analysis could be benefitted by additional analysis comparing bike data for other months to observe the different variables included in this dataset, such as gender, time spent, etc
 
